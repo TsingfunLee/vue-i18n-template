@@ -19,7 +19,10 @@ const zh = {
   confirm: '确定',
   userNameRequired: '请输入用户名',
   passwordRequired: '请输入密码',
-  loginError: '用户名或密码错误'
+  loginError: '用户名或密码错误',
+  systemConfig: '系统配置',
+  version: '版本',
+  time: '时间'
 }
 
 export default zh
